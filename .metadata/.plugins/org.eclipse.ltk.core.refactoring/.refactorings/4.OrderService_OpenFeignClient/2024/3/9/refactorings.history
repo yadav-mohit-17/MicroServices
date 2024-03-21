@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.ms.app.bean&apos; to &apos;1.CartService_Producer/src/main/java/com.ms.app.bean&apos;&#x0D;&#x0A;- Original project: &apos;3.OrderService_OpenFeignClient&apos;&#x0D;&#x0A;- Destination element: &apos;1.CartService_Producer/src/main/java/com.ms.app.bean&apos;&#x0D;&#x0A;- Original element: &apos;3.OrderService_OpenFeignClient/src/main/java/com.ms.app.bean&apos;" description="Copy package" destination="=1.CartService_Producer/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ms.app.bean" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ms.app.bean" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1709372596437" version="1.0"/>
+</session>
